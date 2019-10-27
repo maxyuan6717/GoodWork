@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572667219396",
+    "firebase_url": "https://workoutforgood-917a6.firebaseio.com",
+    "project_id": "workoutforgood-917a6",
+    "storage_bucket": "workoutforgood-917a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572667219396:android:ff998685d259bf52366891",
+        "android_client_info": {
+          "package_name": "com.example.workoutforgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572667219396-ti209pljdde9ve80ivlufjnepr8acadg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCB9AeMdP2RJorT5bePLovrQl7fRnuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572667219396-ti209pljdde9ve80ivlufjnepr8acadg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

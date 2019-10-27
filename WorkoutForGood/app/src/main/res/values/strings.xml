@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkoutForGood</string>
+    <string name="title_activity_welcome_page">WelcomePage</string>
+    <string name="AboutHeader">About <i>GoodWork</i></string>
+    <string name="AboutBodyParagraph"><i>GoodWork</i> is part of a broader idea of putting our work to good use. We want to push the notion that exercising while volunteering is just as good
+                                                        as working out at the gym. Come join our mission and we will unite our communities one muscle group at a time! To view our GitHub repository,
+        click here <a href = "https://github.com/maxyuan6717/GoodWork">here.</a></string>
+    <string name="BenDescription">Front-end Development. Has a roommate with three eyed sunglasses.</string>
+    <string name="MaxDescription">Back-end Development. Also loves working out in the gym (should use our app more)</string>
+</resources>
